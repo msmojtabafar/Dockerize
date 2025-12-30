@@ -116,8 +116,7 @@ Automatically detects: - Python version\
 MIT --- Free for all uses.
 
 Maintainer: **msmojtabafar**\
-Version: 2.0.0\
-Last Updated: \$(date)
+Version: 2.0.0
 
 ------------------------------------------------------------------------
 
